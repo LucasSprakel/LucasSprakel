@@ -1,6 +1,6 @@
 Hey 👋,
 
-I am a studying Computer Engeneering at Federal University of Paraiba. Interested in Information Security, DJANGO and new technologies. I LOVE PYTHON
+I am a studying Computer Engeneering at Federal University of Paraiba. Interested in Information Security, DJANGO and new technologies.
 
 ## 📫 Get in touch
 [![Gmail](https://imgur.com/RpheCdT.png)](mailto:lucassprakel@gmail.com) &ensp;

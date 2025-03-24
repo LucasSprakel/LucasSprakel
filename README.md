@@ -5,7 +5,6 @@ I am a studying Computer Engeneering at Federal University of Paraiba. Intereste
 ## 📫 Get in touch
 [![Gmail](https://imgur.com/RpheCdT.png)](mailto:lucassprakel@gmail.com) &ensp;
 [![LinkedIn](https://i.imgur.com/rgMtwhO.png)](https://www.linkedin.com/in/lucas-sprakel-0592891b4/) &ensp;
-[![Instagram](https://imgur.com/vTLXp4I.png)](https://www.instagram.com/lucas_sprakel/) &ensp;
 
 
 ## &#x1f4c8; My GitHub Stats

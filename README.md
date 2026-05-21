@@ -3,7 +3,6 @@ Hey 👋,
 I am a studying Computer Engeneering at Federal University of Paraiba. Interested in Information Security, DJANGO and new technologies.
 
 ## 📫 Get in touch
-[![Gmail](https://imgur.com/RpheCdT.png)](mailto:lucassprakel@gmail.com) &ensp;
 [![LinkedIn](https://i.imgur.com/rgMtwhO.png)](https://www.linkedin.com/in/lucas-sprakel-0592891b4/) &ensp;
 
 
